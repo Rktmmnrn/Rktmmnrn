@@ -1,8 +1,6 @@
-## Hi, Welcome 👋
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=README%20Templates&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Trying%20to%20customize%20my%20profils&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20Welcome&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Trying%20to%20customize%20my%20profils&descAlignY=55&descSize=18)
 
 </div>
 
