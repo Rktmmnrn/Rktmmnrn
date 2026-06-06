@@ -10,7 +10,7 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
-**Made by ![Logo](img/Logo.svg)**
+**Made by <img src="img/Logo.svg" alt="Moi">**
 
 <!--
 **Rktmmnrn/Rktmmnrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
