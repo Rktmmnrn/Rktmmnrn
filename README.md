@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=README%20Templates&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Trying%20to%customize%my%20profils&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=README%20Templates&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Trying%20to%20customize%20my%20profils&descAlignY=55&descSize=18)
 
 [![ENI License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
