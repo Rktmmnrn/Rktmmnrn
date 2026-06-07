@@ -11,13 +11,12 @@
 | Category | Technologies |
 |:---|:---|
 | **Languages** | C • C++ • TypeScript • Python |
+| **Frameworks** | React • Node/Express • fastAPI |
 | **ERP & Business** | Odoo |
 | **Databases** | SQLite • MySQL • PostgreSQL |
-| **Network & Protocols** | TCP/IP • UDP • HTTP/HTTPS • DNS • DHCP • Subnetting |
 | **OS & Environment** | Linux • Windows |
-| **Container & Virtualisation** | Docker • VirtualBox |
-| **Storage & Infrastructure** | NAS • OpenMediaVault |
-| **Tools** | Git • GitHub • VS Code |
+| **DevOps & Tools** | Docker • Git • GitHub • VS Code |
+| **Infrastructure** | NAS • OpenMediaVault • Bases réseau(TCP/IP, UDP, DNS, DHCP) |
 
 </div>
 
