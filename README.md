@@ -10,11 +10,13 @@
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | Java • C • C++ • TypeScript • JavaScript • Python |
-| **ERP** | Odoo |
+| **Languages** | C • C++ • TypeScript • Python |
+| **ERP&Business** | Odoo |
 | **Databases** | SQLite • MySQL • PostgreSQL |
-| **Networking** | TCP/IP • UDP • HTTP/HTTPS • DNS • DHCP • Subnetting |
-| **Storage** | NAS • TrueNAS |
+| **Network&Protocols** | TCP/IP • UDP • HTTP/HTTPS • DNS • DHCP • Subnetting |
+| **OS&Environment** | Linux • Windows |
+| **Container&Virtualisation** | Docker • VirtualBox |
+| **Storage** | NAS • OpenMediaVault |
 | **Tools** | Git • GitHub • VS Code |
 
 </div>
