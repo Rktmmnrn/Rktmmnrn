@@ -11,19 +11,19 @@
 | Category | Technologies |
 |:---|:---|
 | **Languages** | C • C++ • TypeScript • Python |
-| **ERP&Business** | Odoo |
+| **ERP & Business** | Odoo |
 | **Databases** | SQLite • MySQL • PostgreSQL |
-| **Network&Protocols** | TCP/IP • UDP • HTTP/HTTPS • DNS • DHCP • Subnetting |
-| **OS&Environment** | Linux • Windows |
-| **Container&Virtualisation** | Docker • VirtualBox |
-| **Storage** | NAS • OpenMediaVault |
+| **Network & Protocols** | TCP/IP • UDP • HTTP/HTTPS • DNS • DHCP • Subnetting |
+| **OS & Environment** | Linux • Windows |
+| **Container & Virtualisation** | Docker • VirtualBox |
+| **Storage & Infrastructure** | NAS • OpenMediaVault |
 | **Tools** | Git • GitHub • VS Code |
 
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rktmmnrn&layout=compact&theme=radical&hide_border=true&title_color=ffffff&text_color=c9cacc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rktmmnrn&layout=compact&theme=radical&hide_border=true&title_color=ffffff&text_color=c9cacc) -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
 
