@@ -1,6 +1,6 @@
 # Hi !
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20CyberSecurity%|%20Life&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20|%20CyberSecurity%20|%20Life&descAlignY=55&descSize=18)
 
 - 🔭 I’m currently working on project that i should present for my internship
 
