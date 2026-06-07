@@ -10,7 +10,7 @@
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | C • C++ • TypeScript • Python |
+| **Langages** | C • C++ • TypeScript • Python |
 | **Frameworks** | React • Node/Express • fastAPI |
 | **ERP & Business** | Odoo |
 | **Databases** | SQLite • MySQL • PostgreSQL |
