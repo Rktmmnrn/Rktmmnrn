@@ -1,17 +1,18 @@
 # Hi !
 
 <div align="center">
+
 ```
- _      _    __     __   ___
-| |    / \   \ \   / /  / _ \
-| |   / _ \   \ \ / /  | | | |
-| |  / ___ \   \ V /   | |_| |
-|_| /_/   \_\   \_/     \___/
+ _   _    _    __     __·  ___
+| \ | |  / \   \ \   / /  / _ \
+|  \| | / _ \   \ \ / /  | | | |
+| |\  |/ ___ \   \ V /   | |_| |
+|_| \_/_/   \_\   \_/     \___/
 ```
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55&descSize=18)
 
-![Status](https://img.shields.io/badge/🔭_En_stage-projet_en_cours-2563EB?style=flat-square&labelColor=1A1A1A)
+![Status](https://img.shields.io/badge/🔭_Recherche_stage-projet_en_cours-2563EB?style=flat-square&labelColor=1A1A1A)
 ![OS](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-CyberSec_&_Dev-2563EB?style=flat-square)
 
