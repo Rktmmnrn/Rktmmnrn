@@ -13,7 +13,7 @@ _      _    __     __   ___
 ```
 
 
-![Status](https://img.shields.io/badge/🔭_Recherche_stage-projet_en_cours-2563EB?style=flat-square&labelColor=1A1A1A)
+![Status](https://img.shields.io/badge/🔭_Recherche_stage_...-projet_en_cours-2563EB?style=flat-square&labelColor=1A1A1A)
 ![OS](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-CyberSec_&_Dev-2563EB?style=flat-square)
 
