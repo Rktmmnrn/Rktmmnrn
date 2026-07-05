@@ -30,7 +30,7 @@ _      _    __     __   ___
 | **ERP & Business** | Odoo |
 | **Databases** | SQLite • MySQL • PostgreSQL |
 | **OS & Environment** | Linux • Windows |
-| **DevOps & Tools** | Docker • Git • GitHub • VS Code • Antigravity |
+| **DevOps & Tools** | Docker • Git • GitHub • VS Code • Antigravity • Claude AI |
 | **Infrastructure** | NAS • OpenMediaVault • Bases réseau(TCP/IP, UDP, DNS, DHCP) |
 
 </div>
